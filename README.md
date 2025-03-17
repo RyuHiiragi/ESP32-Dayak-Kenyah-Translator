@@ -41,3 +41,14 @@ This project implements a bidirectional translator between Indonesian and Dayak 
   - WiFi.h (ESP32 built-in)
   - WebServer.h (ESP32 built-in)
   - ArduinoJson v6.21.4+
+
+**Credits**
+Developed by:
+Muhammad Rizky Saputra (XI TJKT 2)
+GitHub: @RyuHiiragi
+Instagram: @kysukamieayam
+
+**Limitations**
+Exact word/phrase matches only
+No grammar conjugation support
+Case-insensitive only for Dayak→Indonesian

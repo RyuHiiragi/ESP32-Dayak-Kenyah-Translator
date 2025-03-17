@@ -1,10 +1,10 @@
 # Dayak Kenyah Language Translator (ESP32)
 
-![Project Banner](https://i.pinimg.com/736x/cc/82/6d/cc826d6dccc9dcf66760320f295a688f.jpg)
+![Project Banner](https://i.pinimg.com/736x/05/a6/78/05a6784beb0b4a1a3cf92bef4e1683e6.jpg)
 
 ## Project Overview
 This project implements a bidirectional translator between Indonesian and Dayak Kenyah language using an ESP32 microcontroller. It features a web-based interface with:
-- 200+ vocabulary entries
+- 500+ vocabulary entries
 - Phrase translation capability
 - Responsive design with modern CSS
 - Font Awesome icons integration
